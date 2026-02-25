@@ -1,5 +1,6 @@
 import React, { lazy, Suspense, memo, useCallback } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// Replace BrowserRouter with HashRouter if needed.
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { useInView } from "react-intersection-observer";
 import { ErrorBoundary } from "react-error-boundary";
 
@@ -14,7 +15,7 @@ const Education = lazy(() => import("./components/Education"));
 const Skills = lazy(() => import("./components/Skills"));
 const Projects = lazy(() => import("./components/Projects"));
 const Contact = lazy(() => import("./components/Contact"));
-const ConnectInfo = lazy(()=> import("./components/ContactInfo"));
+const ConnectInfo = lazy(() => import("./components/ContactInfo"));
 
 // Loading skeleton
 const LoadingSkeleton = memo(({ height = "400px" }) => (
