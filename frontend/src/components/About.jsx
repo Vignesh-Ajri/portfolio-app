@@ -23,7 +23,7 @@ const About = () => {
           {/* Name & Role/Bio */}
           <div className="text-center">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-4">
-              Vignesh S.
+              Your Full Name
             </h2>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-700 dark:text-gray-300 font-medium mb-2">

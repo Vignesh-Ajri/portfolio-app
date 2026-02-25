@@ -58,7 +58,7 @@ const HeroSection = () => {
             <div className="absolute -inset-1 rounded-full blur-lg transition-all duration-300 bg-gradient-to-r from-purple-400 to-pink-400 opacity-50 group-hover:opacity-75 dark:from-purple-600 dark:to-pink-600 dark:opacity-75 dark:group-hover:opacity-100"></div>
             <div className="relative w-80 h-80 rounded-full overflow-hidden border-4 transition-all duration-300 border-purple-300/50 hover:border-purple-400/70 dark:border-purple-500/30 dark:hover:border-purple-400/50">
               <img
-                src={ProfileImage}
+                src="https://placeholdpicsum.dev/photo/category/technology/600/400?random=6"
                 alt="Vignesh Profile Picture"
                 className="w-full h-full object-cover transition-transform duration-300 hover:scale-110"
               />
@@ -75,7 +75,7 @@ const HeroSection = () => {
 
           {/* Name */}
           <h1 className="text-5xl md:text-6xl font-bold mb-4 text-gray-900 dark:text-white">
-            Vignesh
+            Your Name
           </h1>
 
           {/* Animated Text */}
