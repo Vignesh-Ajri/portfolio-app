@@ -71,7 +71,7 @@ const LazySection = memo(({ children, id, fallbackHeight = "400px" }) => {
 function App() {
   return (
     <div className="overflow-x-hidden bg-purple-50 dark:bg-black">
-      <Router>
+      <Router basename="/portfolio-app">
         <Header />
         <Routes>
           <Route
