@@ -1,47 +1,59 @@
-# Portfolio App
+# Modern React Portfolio Website
 
-A modern portfolio web application built with **React**, **Vite**, and **Tailwind CSS**.
-The frontend code is located in the `frontend/` folder.
+> A high-performance, SEO-optimized React portfolio website built for professional branding and online visibility.
 
----
+## Live Demo
 
-## Features
+Live Website: [portfolio-app](https://vignesh-ajri.github.io/portfolio-app)
 
-- Fast development with **Vite**
-- Styled with **Tailwind CSS**
-- Fully responsive design
-- Easy to customize components
+## Project Overview
 
----
+This project is a fully responsive **React portfolio website** designed to help professionals showcase their:
 
-## Installation
+- Skills
+- Projects
+- Experience
+- Services
+- Contact Information
 
-Clone the repository and install dependencies:
+Built with performance, scalability, and SEO best practices in mind.
+
+If you're looking for a **custom React portfolio website developer**, this project reflects the quality and standards delivered.
+
+## Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Responsive Design
+- SEO Optimization
+- Git & GitHub
+- Deployment via Vercel / Netlify
+
+## Key Features
+
+- Fully Responsive Design (Mobile-First)
+- Clean UI/UX Layout
+- Fast Loading Performance
+- SEO-Friendly Structure
+- Semantic HTML
+- Optimized Meta Tags
+- Smooth Animations
+- Contact Form Integration
+
+## Installation Guide
+
+To run this project locally:
 
 ```bash
 git clone https://github.com/Vignesh-Ajri/portfolio-app.git
 cd portfolio-app/frontend
 npm install
-```
-
----
-
-## Development
-
-Run the development server:
-
-```bash
 npm run dev
 ```
-
-This will start the app at:
-
-```
-http://localhost:5173/
-```
-
----
 
 ## Author
 
 Made with ❤️ by [Vignesh](https://github.com/Vignesh-Ajri)
+
+> Happy Coding!!!
