@@ -36,7 +36,7 @@ const HeroSection = () => {
 
   const handleDownloadCV = () => {
     // Replace with your actual CV path
-    window.open("./assets/MyCv.pdf", "_blank");
+    window.open("/portfolio-app/MyCv.pdf", "_blank");
   };
 
   const handleContactClick = () => {
