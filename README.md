@@ -1,20 +1,20 @@
-# 🚀 Portfolio App
+# Portfolio App
 
 A modern portfolio web application built with **React**, **Vite**, and **Tailwind CSS**.
 The frontend code is located in the `frontend/` folder.
 
 ---
 
-## 📂 Features
+## Features
 
-- ⚡ Fast development with **Vite**
-- 🎨 Styled with **Tailwind CSS**
-- 📱 Fully responsive design
-- 🧩 Easy to customize components
+- Fast development with **Vite**
+- Styled with **Tailwind CSS**
+- Fully responsive design
+- Easy to customize components
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 Clone the repository and install dependencies:
 
@@ -26,7 +26,7 @@ npm install
 
 ---
 
-## ▶️ Development
+## Development
 
 Run the development server:
 
@@ -42,6 +42,6 @@ http://localhost:5173/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Made with ❤️ by [Vignesh](https://github.com/Vignesh-Ajri)
